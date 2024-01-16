@@ -12,7 +12,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Computer Science Student at the University of Virginia",
+		title: "Here's a test! Computer Science Student at the University of Virginia",
 		},
 
 	about: {
