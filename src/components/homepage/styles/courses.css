@@ -1,0 +1,9 @@
+@import "../../../data/styles.css";
+
+.courses-body {
+	margin-bottom: 5px; /* Adjust the margin to reduce space between elements */
+  }
+  
+  .course {
+	margin-bottom: 25px; /* Adjust the margin to create space between individual items */
+  }
