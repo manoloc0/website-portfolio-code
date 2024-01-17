@@ -12,7 +12,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Here's a test! Is it working? Computer Science Student at the University of Virginia",
+		title: "Here is a test from terminal. Computer Science Student at the University of Virginia",
 		},
 
 	about: {
@@ -31,7 +31,7 @@ const INFO = {
 		{
 			title: "Business Owner: Forthright Films",
 			description:
-				"Produced 50+ industry standard videos by pitching ideas, developing concepts, and executing production plans among small teams.",
+				"This should be working. Produced 50+ industry standard videos by pitching ideas, developing concepts, and executing production plans among small teams.",
 			logo: "Forthright-Films_Profile.jpg",
 			linkText: "Visit forthrightfilms.com",
 			link: "https://forthrightfilms.com",
