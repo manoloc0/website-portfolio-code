@@ -39,17 +39,17 @@ function article_1() {
 	};
 }
 
-/*function article_2() {
+function article_2() {
 	return {
-		date: "Coming Soon!",
-		title: "Standing on the Shoulders of Giants: Dynamic Programing",
+		date: "15 January 2024",
+		title: "This Common Medical School Advice is Wrong; Computer Science Says So",
 		description:
-			"You've probably used one of the most powerful tools in Computer Science— and you didn't even realize.",
-		linkedinUrl: "/",
-		style: ``,
+			"New Medical School students are commonly taught studying is like eating a stack of pancakes. But, this is wrong. In this article, I set the record straight by giving time management advice from the perspective of Computer Science.",
+		linkedinUrl: "https://www.linkedin.com/pulse/common-medical-school-advice-wrong-computer-science-says-cadenas-3bsze%3FtrackingId=L2MUlWTlRoGma77gajJAuw%253D%253D/?trackingId=L2MUlWTlRoGma77gajJAuw%3D%3D",
 		keywords: [
-			"Dynamic Programming",
+			"Medical School",
 			"Data Structures and Algorithms",
+			"Computer Science"
 		],
 		body: (
 			<React.Fragment>
@@ -57,8 +57,8 @@ function article_1() {
 			</React.Fragment>
 		)
 	};
-} */
+} 
 
-const myArticles = [article_1];
+const myArticles = [article_1, article_2];
 
 export default myArticles;
