@@ -180,17 +180,8 @@ const Homepage = () => {
 
 						<div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '50vh', padding: '20px 0' }}>
 						<p style={{ fontWeight: 'bolder', fontSize: '18px', marginBottom: '10px' }}>
-        Featured Video: AutomatedTire
     </p>
-    <iframe
-        src="https://vimeo.com/903136209/8f54359f62?share=copy"
-        width="80%"
-        height="80%"
-        frameBorder="0"
-        allow="autoplay; fullscreen; picture-in-picture"
-        allowFullScreen
-        title="video"
-    ></iframe>
+    <iframe src="https://player.vimeo.com/video/903136209?h=8f54359f62&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Forthright-Films_Promo-Video_v2"></iframe>
 </div>
 
 
