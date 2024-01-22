@@ -29,12 +29,30 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Current Project: App for Apple Vision Pro with Swift UI",
+			description:
+				"AI Powered Business Tool for Apple Vision",
+			logo: "apple.jpg",
+			linkText: "Read about Apple Vision Pro",
+			link: "https://www.apple.com/apple-vision-pro/",
+		},
+
+		{
 			title: "Business Owner: Forthright Films",
 			description:
 				"Produced 50+ industry standard videos by pitching ideas, developing concepts, and executing production plans among small teams.",
 			logo: "Forthright-Films_Profile.jpg",
 			linkText: "Visit forthrightfilms.com",
 			link: "https://forthrightfilms.com",
+		},
+
+		{
+			title: "The Middleburg Life: A Hunt Country Docuseries",
+			description:
+				"Produced, directed, and edited a 12 episode docuseries in Middleburg and surrounding areas about local stories and historical traditions.",
+			logo: "ml.jpeg",
+			linkText: "View Docuseries on Vimeo",
+			link: "https://vimeo.com/showcase/6830648",
 		},
 
 		{
@@ -72,6 +90,16 @@ const INFO = {
 			linkText: "tylercadenas.com",
 			link: "/",
 		},
+
+		{
+			title: "Never Alone in the Cosmos | Max MSP Patch",
+			description:
+				"Developed audio visuals using Max MSP Programming language. Performed as part of a 20-person collaborative ensemble for Performance with Computers class.",
+			logo: "max.jpeg",
+			linkText: "View Demo on Vimeo",
+			link: "https://vimeo.com/905047922/c7287e331d?share=copy",
+		},
+
 	],
 };
 
